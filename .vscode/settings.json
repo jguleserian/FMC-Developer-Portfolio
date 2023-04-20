@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "TabNine.tabnine-vscode",
+  "editor.emptySelectionClipboard": true,
+  "editor.smoothScrolling": true,
+  "editor.fontSize": 14,
+  "editor.formatOnSaveMode": "file",
+  "eslint.codeActionsOnSave.rules": null
+}
